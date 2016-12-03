@@ -1,0 +1,18 @@
+{
+  "name": "svelte-es5-meteor",
+  "version": "0.0.1",
+  "description": "Svelte ES5 compatibility build for Meteor",
+  "main": "dist/svelte.js",
+  "scripts": {
+    "prepublish": "gulp"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "svelte": "^1.0.7"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
