@@ -1,6 +1,6 @@
 {
   "name": "svelte-es5-meteor",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Svelte ES5 compatibility build for Meteor",
   "main": "dist/svelte.js",
   "files": [
@@ -15,7 +15,7 @@
     "babelify": "^7.3.0",
     "browserify": "^13.1.1",
     "gulp": "^3.9.1",
-    "svelte": "^1.6.3",
+    "svelte": "^1.8.0",
     "vinyl-source-stream": "^1.1.0"
   }
 }
